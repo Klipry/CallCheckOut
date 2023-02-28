@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "109169154026",
+    "firebase_url": "https://myphonehistory-ba3db-default-rtdb.firebaseio.com",
+    "project_id": "myphonehistory-ba3db",
+    "storage_bucket": "myphonehistory-ba3db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109169154026:android:f79b59f8dcf2fdef868493",
+        "android_client_info": {
+          "package_name": "com.example.callcheckout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109169154026-cvtnlbhaogen9toqvg5b0a2flmlaib4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.callcheckout",
+            "certificate_hash": "301165156fd834e523f2831ae5e58d7bb6a3b386"
+          }
+        },
+        {
+          "client_id": "109169154026-2me8n2hovuscce4edkep281m2qoa2419.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM2SGCPehLAhLcI5SDpoJknzUwyx4pek8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109169154026-2me8n2hovuscce4edkep281m2qoa2419.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
